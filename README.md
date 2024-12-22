@@ -7,8 +7,6 @@
 
 ### 👩‍💻 About Me 💫
 
-I’m a dedicated engineering student specializing in **Emerging Technologies and Security**. My focus areas include **mobile and web application development**, with hands-on experience in both frontend and backend technologies. I'm actively looking for a **Final Year Project (PFE) internship** to apply my skills and deepen my expertise.
-
 - 🌱 I’m currently learning **Machine learning**
 
 - 📫 How to reach me **lafiselma@gmail.com**
