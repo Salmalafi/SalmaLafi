@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **lafiselma@gmail.com**
 
-- ⚡ Fun fact **Git happens, so let's commit to greatness!"**
+- ⚡ Fun fact **"Git happens, so let's commit to greatness!"**
 
 ### 🎓 Education
 
